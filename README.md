@@ -53,4 +53,4 @@
 </p>
 
 ---
-⭐️ From [LuBaogui](https://github.com/lubaogui-cn)
+⭐️ Templates From [sudnyeshtalekar](https://github.com/sudnyeshtalekar)
