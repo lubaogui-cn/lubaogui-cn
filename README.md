@@ -13,9 +13,10 @@
 <br />
 
 <b>Languages and Tools</b> <br/>
-- 🤖 开发语言：Python、JavaScript
+- 🤖 开发语言：Python
 - 🕹 操作系统：CentOS、Ubuntu、Raspberry
-- ⌨ ️Web开发：Django、Tornado、FastAPI
+- ⌨ ️Web前端：JavaScript、jQuery
+- ⌨ ️Web后端：Django、Tornado、FastAPI
 - 🕷 爬虫工具：Scrapy、Requests、Py2Js
 - 🐼 影视图像：OpenCV、Pytesseract、OCR
 - ⏱ 自动化库：Selenium、XPath、Beautiful Soup
