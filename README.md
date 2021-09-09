@@ -17,7 +17,7 @@
 - 🕹 操作系统：CentOS、Ubuntu、Raspberry
 - ⌨ ️Web前端：JavaScript、jQuery
 - ⌨ ️Web后端：Django、Tornado、FastAPI
-- 🕷 爬虫工具：Scrapy、Requests、Py2Js
+- 🕷 爬虫工具：Scrapy、Feapder、Requests、Py2Js
 - 🐼 影视图像：OpenCV、Pytesseract、OCR
 - ⏱ 自动化库：Selenium、XPath、Beautiful Soup
 - ⏳ 消息队列：Redis、Kafka
