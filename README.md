@@ -5,16 +5,17 @@
 
 <b>About me</b> <br>
 - 🏢 就职：深圳一家芯片供应链大数据公司
-- 💻 职责：Python 开发工程师（数据收集+Web开发）
-- 🌱 方向：全栈开发工程师，主攻数据采集处理
+- 💻 职责：Python 开发工程师
+- 🌱 方向：全栈开发工程师，主攻数据开发
 - 💬 爱好：记录生活、学习及分享技能 
 
 
 <br />
 
 <b>Languages and Tools</b> <br/>
-- 🤖 开发语言：Python
+- 🤖 开发语言：Python、Java、Lua
 - 🕹 操作系统：CentOS、Ubuntu、Raspberry
+- 🐘 数据开发：Hadoop、Hive、Spark、Flume
 - ⌨ ️Web前端：JavaScript、jQuery
 - ⌨ ️Web后端：Django、Tornado、FastAPI
 - 🕷 爬虫工具：Scrapy、Feapder、Requests、Py2Js
